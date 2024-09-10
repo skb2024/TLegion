@@ -1,0 +1,31 @@
+/* Modo oscuro específico para dispositivos móviles */
+body.mobile {
+    background-color: #333;
+    color: #fff;
+}
+
+header {
+    background-color: #444;
+}
+
+nav {
+    background-color: #555;
+}
+
+nav a {
+    color: #ddd;
+}
+
+nav a.active {
+    color: #fff;
+}
+
+nav a:hover {
+    color: #fff;
+}
+
+footer {
+    background-color: #444;
+}
+
+/* Añade más estilos específicos para móviles si es necesario */

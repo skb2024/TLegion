@@ -1,0 +1,31 @@
+/* Modo oscuro para el tema principal */
+body {
+    background-color: #333;
+    color: #fff;
+}
+
+header {
+    background-color: #444;
+}
+
+nav {
+    background-color: #555;
+}
+
+nav a {
+    color: #ddd;
+}
+
+nav a.active {
+    color: #fff;
+}
+
+nav a:hover {
+    color: #fff;
+}
+
+footer {
+    background-color: #444;
+}
+
+/* Añade más estilos según necesites para el modo oscuro */
